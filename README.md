@@ -10,5 +10,5 @@ contents:
 Highlight videos:
 
 - [highlights](https://vimeo.com/99536775)
-- [GoPro on top of projector](https://vimeo.com/92879100]
+- [GoPro on top of projector](https://vimeo.com/92879100)
 - [long cut](https://vimeo.com/92870574)
